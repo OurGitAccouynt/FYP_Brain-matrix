@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/GAME SCENES/Medium.unity
+    guid: d3c6a02c866669d4398240787855db73
+  - enabled: 1
+    path: Assets/GAME SCENES/easy.unity
+    guid: da32e96a0c618aa458d2bfdb37095820
+  - enabled: 1
+    path: Assets/GAME SCENES/hard.unity
+    guid: 778b9465fb8731a4a93a134acad40be4
+  - enabled: 1
+    path: Assets/GAME SCENES/puzzlegamebydanial.unity
+    guid: 18893ee3662a6a94cba776dcb2e2afd5
+  - enabled: 1
+    path: Assets/GAME SCENES/Puzzle.unity
+    guid: 50a2dc3e0252a254cbc7e3cd011dfcb9
+  - enabled: 1
+    path: Assets/GAME SCENES/test.unity
+    guid: 782ffcbbb71d37644a1056484802fe9b
+  - enabled: 1
+    path: Assets/GAME SCENES/menu.unity
+    guid: 20904ffbeb8c78c41967d31198b6766a
+  - enabled: 1
+    path: Assets/GAME SCENES/puzzleeasy.unity
+    guid: 5938b0be60a7c11499cbd9a4edc9b605
+  - enabled: 1
+    path: Assets/GAME SCENES/mazeeasy.unity
+    guid: 6974a8111fc284c4abc9f5b4ced04863
+  - enabled: 1
+    path: Assets/GAME SCENES/puzzlehard.unity
+    guid: c716ea9815fd3af42b8ccb43f67eae08
+  - enabled: 1
+    path: Assets/GAME SCENES/mazehard.unity
+    guid: ec297f44d0112ac448fc5ee35a4cf621
+  - enabled: 1
+    path: Assets/GAME SCENES/draw.unity
+    guid: edee28a6fe3ccd749a4c0942036877d3
+  - enabled: 1
+    path: Assets/GAME SCENES/Game.unity
+    guid: 6f34ab5918425534d986a2a17601bf4d
+  - enabled: 1
+    path: Assets/GAME SCENES/dotmenu.unity
+    guid: d8f3bb21fb1c9b04ba79cb1dfd72cd12
+  - enabled: 1
+    path: Assets/GAME SCENES/mazemedium.unity
+    guid: 76406f652bb8a4b489333f02518fcb4d
+  - enabled: 1
+    path: Assets/GAME SCENES/dotlevelmenu.unity
+    guid: a19317cb2e3dc9049b9428446ebbeafc
+  m_configObjects: {}
